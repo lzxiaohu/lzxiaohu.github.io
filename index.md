@@ -1,6 +1,5 @@
 ## Welcome to the Website of Hu Cao
 
-### Personal information
 <table border="0">
   <tr>
     <td width="60%">
