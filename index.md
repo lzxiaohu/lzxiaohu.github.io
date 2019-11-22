@@ -19,6 +19,7 @@
 #### 2016.07.01 - present Work as a software engineer in Institute of Modern Physics
 #### 2013.09 - 2016.06 pursue Master Degree in School of Information Science and Technology, Lanzhou University
            Major: Software Engineering
+           
 #### 2019.08 - 2013.06 pursue Bachelor in School of Information Science and Technology, Lanzhou University
            Major: Electronic information and technology
 
